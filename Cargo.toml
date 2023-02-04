@@ -1,0 +1,10 @@
+[package]
+name = "rust_raytracer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sdl2 = { version = "0.35.2", features = ["ttf"] }
+cgmath = "0.18.0"
+num_cpus = "1.15.0"
+image = { version = "0.24.5", features = [] }
