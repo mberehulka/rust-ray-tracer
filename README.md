@@ -1,6 +1,6 @@
 # Rust Ray Tracer
 
-This code is the result of [this series of tutorials](https://www.youtube.com/playlist?list=PL3WoIG-PLjSt54LvzY2SuBQDl-cXa11Tm) from [QuantitativeBytes](https://www.youtube.com/@QuantitativeBytes).
+This code follows [this series of tutorials](https://www.youtube.com/playlist?list=PL3WoIG-PLjSt54LvzY2SuBQDl-cXa11Tm) from [QuantitativeBytes](https://www.youtube.com/@QuantitativeBytes).
 
 The programm runs in the cpu, and it is single-threaded, for simplicity's sake.
 
